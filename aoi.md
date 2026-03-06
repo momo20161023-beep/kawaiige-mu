@@ -1,3 +1,3 @@
 # yamake**aho**
-aoi<mark>tennsai!</mark>
+あおい<mark>超天才i!</mark>
 
