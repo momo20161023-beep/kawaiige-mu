@@ -1,3 +1,3 @@
 # yamake**aho**
-あおい<mark>超天才i!</mark>
+あおい<mark>超天才!</mark>
 
